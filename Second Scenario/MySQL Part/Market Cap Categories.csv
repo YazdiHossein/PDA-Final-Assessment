@@ -1,0 +1,201 @@
+Code,Date,Company,Sector,Market_Cap,Weight_Percentage,Null_Cl,Total_Index_Market_Cap,MC_Strength
+A2M,2016-04-01,"The A2 Milk Company Limited NZ","Consumer Staples",1964410000,0.12,Null,26196187,Good
+AAC,2016-04-01,"Australian Agricultural Company Limited","Consumer Staples",927459000,0.06,Null,33986772,Weak
+AAD,2016-04-01,"Ardent Leisure Group Stapled","Consumer Discretionary",858443000,0.05,Null,15775360,Weak
+ABC,2016-04-01,"Adelaide Brighton Limited",Materials,3690040000,0.22,Null,22283791,Strong
+ABP,2016-04-01,"Abacus Property Group Stapled","Real Estate",1864850000,0.11,Null,22339859,Good
+ACX,2016-04-01,"Aconex Limited","Information Technology",779031000,0.05,Null,15359144,Weak
+AGL,2016-04-01,"AGL Energy Limited",Utilities,17651200000,1.06,Null,18306588,"Very Strong"
+AHG,2016-04-01,"Automotive Holdings Group Limited","Consumer Discretionary",1366290000,0.08,Null,29832105,Good
+AHY,2016-04-01,"Asaleo Care Limited","Consumer Staples",965307000,0.06,Null,18414473,Weak
+ALL,2016-04-01,"Aristocrat Leisure Limited","Consumer Discretionary",11474600000,0.69,Null,29185453,"Very Strong"
+ALQ,2016-04-01,"Als Limited",Industrials,3095920000,0.19,Null,30638213,Strong
+ALU,2016-04-01,"Altium Limited","Information Technology",989640000,0.06,Null,17366687,Weak
+AMC,2016-04-01,"Amcor Limited",Materials,17441600000,1.05,Null,19688815,"Very Strong"
+AMP,2016-04-01,"AMP Limited",Financials,15321100000,0.92,Null,33855664,"Very Strong"
+ANN,2016-04-01,"Ansell Limited","Health Care",3551570000,0.21,Null,27701216,Strong
+ANZ,2016-04-01,"Australia And New Zealand Banking Group Limited",Financials,93424700000,5.6,Null,17612164,"Very Strong"
+AOG,2016-04-01,"Aveo Group Stapled","Real Estate",1866090000,0.11,Null,26860334,Good
+APA,2016-04-01,"APA Group Stapled",Utilities,9984190000,0.6,Null,30037727,"Very Strong"
+API,2016-04-01,"Australian Pharmaceutical Industries Limited","Health Care",999193000,0.06,Null,29784239,Weak
+APN,2016-04-01,"APN News & Media Limited","Consumer Discretionary",854834000,0.05,Null,16562953,Weak
+APO,2016-04-01,"Apn Outdoor Group Limited","Consumer Discretionary",949703000,0.06,Null,27315482,Weak
+ARB,2016-04-01,"ARB Corporation Limited","Consumer Discretionary",1165590000,0.07,Null,16137397,Good
+AST,2016-04-01,"Ausnet Services Limited",Utilities,6071320000,0.36,Null,19931265,"Very Strong"
+ASX,2016-04-01,"ASX Limited",Financials,9772680000,0.59,Null,14354150,"Very Strong"
+AWC,2016-04-01,"Alumina Limited",Materials,5154920000,0.31,Null,24803538,"Very Strong"
+AZJ,2016-04-01,"Aurizon Holdings Limited",Industrials,10771700000,0.65,Null,25401672,"Very Strong"
+BAL,2016-04-01,"Bellamys Australia Limited","Consumer Staples",406083000,0.02,Null,30918079,"Very Weak"
+BAP,2016-04-02,"Bapcor Limited","Consumer Discretionary",1619670000,0.1,Null,22878183,Good
+BEN,2016-04-02,"Bendigo And Adelaide Bank Limited",Financials,5738350000,0.34,Null,30901815,"Very Strong"
+BGA,2016-04-02,"Bega Cheese Limited","Consumer Staples",965977000,0.06,Null,22693059,Weak
+BHP,2016-04-02,"BHP Billiton Limited",Materials,77209100000,4.63,Null,23921450,"Very Strong"
+BKL,2016-04-02,"Blackmores Limited","Consumer Staples",1938590000,0.12,Null,15424857,Good
+BKW,2016-04-02,"Brickworks Limited",Materials,2188870000,0.13,Null,31947069,Strong
+BLD,2016-04-02,"Boral Limited",Materials,6846420000,0.41,Null,17086118,"Very Strong"
+BOQ,2016-04-02,"Bank of Queensland Limited",Financials,4709870000,0.28,Null,20961776,Strong
+BPT,2016-04-02,"Beach Energy Limited",Energy,1492080000,0.09,Null,23680218,Good
+BRG,2016-04-02,"Breville Group Limited","Consumer Discretionary",1343880000,0.08,Null,32708233,Good
+BSL,2016-04-02,"Bluescope Steel Limited",Materials,7035930000,0.42,Null,25397006,"Very Strong"
+BTT,2016-04-02,"BT Investment Management Limited",Financials,3132890000,0.19,Null,27791735,Strong
+BWP,2016-04-02,"BWP Trust Ord Units","Real Estate",1830790000,0.11,Null,28287407,Good
+BXB,2016-04-02,"Brambles Limited",Industrials,14853800000,0.89,Null,14637229,"Very Strong"
+CAR,2016-04-02,"Carsales.com Limited","Information Technology",2694300000,0.16,Null,14441056,Strong
+CBA,2016-04-02,"Commonwealth Bank of Australia",Financials,148038000000,8.88,Null,23062784,"Very Strong"
+CCL,2016-04-02,"Coca-cola Amatil Limited","Consumer Staples",8262050000,0.5,Null,21465439,"Very Strong"
+CCP,2016-04-02,"Credit Corp Group Limited",Financials,818742000,0.05,Null,33352828,Weak
+CGC,2016-04-02,"Costa Group Holdings Limited","Consumer Staples",1388870000,0.08,Null,18834661,Good
+CGF,2016-04-02,"Challenger Limited",Financials,7178620000,0.43,Null,31693741,"Very Strong"
+CHC,2016-04-02,"Charter Hall Group Forus","Real Estate",2278200000,0.14,Null,21210061,Strong
+CIM,2016-04-02,"Cimic Group Limited",Industrials,11650500000,0.7,Null,29034169,"Very Strong"
+CMW,2016-04-02,"Cromwell Property Group Stapled","Real Estate",1681620000,0.1,Null,27947028,Good
+COH,2016-04-03,"Cochlear Limited","Health Care",7765810000,0.47,Null,17622523,"Very Strong"
+CPU,2016-04-03,"Computershare Limited","Information Technology",7681340000,0.46,Null,29499353,"Very Strong"
+CQR,2016-04-03,"Charter Hall Retail Reit Unit","Real Estate",1762860000,0.11,Null,22563714,Good
+CSL,2016-04-03,"CSL Limited","Health Care",57047600000,3.42,Null,15877428,"Very Strong"
+CSR,2016-04-03,"CSR Limited",Materials,2275210000,0.14,Null,29022709,Strong
+CTD,2016-04-03,"Corporate Travel Management Limited","Consumer Discretionary",2107490000,0.13,Null,29326570,Strong
+CTX,2016-04-03,"Caltex Australia Limited",Energy,7691300000,0.46,Null,15810313,"Very Strong"
+CWN,2016-04-03,"Crown Resorts Limited","Consumer Discretionary",8602340000,0.52,Null,17448918,"Very Strong"
+CWY,2016-04-03,"Cleanaway Waste Management Limited",Industrials,1909120000,0.11,Null,17906023,Good
+CYB,2016-04-03,"CYBG PLC Cdi 1:1",Financials,3292460000,0.2,Null,25622343,Strong
+DLX,2016-04-03,"Duluxgroup Limited",Materials,2541800000,0.15,Null,16281321,Strong
+DMP,2016-04-03,"Dominos Pizza Enterprises Limited","Consumer Discretionary",5165210000,0.31,Null,26006390,"Very Strong"
+DOW,2016-04-03,"Downer Edi Limited",Industrials,2459510000,0.15,Null,22499950,Strong
+DUE,2016-04-03,"Duet Group Forus",Utilities,6893450000,0.41,Null,30516312,"Very Strong"
+DXS,2016-04-03,"Dexus Property Group Stapled","Real Estate",9456850000,0.57,Null,22576338,"Very Strong"
+ECX,2016-04-03,"Eclipx Group Limited",Financials,1037320000,0.06,Null,28129043,Good
+EHE,2016-04-03,"Estia Health Limited","Health Care",805262000,0.05,Null,31870250,Weak
+EVN,2016-04-03,"Evolution Mining Limited",Materials,3533880000,0.21,Null,31473026,Strong
+FBU,2016-04-03,"Fletcher Building Limited NZX",Materials,5239590000,0.31,Null,19419488,"Very Strong"
+FLT,2016-04-03,"Flight Centre Travel Group Limited","Consumer Discretionary",2917940000,0.18,Null,26727009,Strong
+FMG,2016-04-03,"Fortescue Metals Group LTD",Materials,19399000000,1.16,Null,19517516,"Very Strong"
+FPH,2016-04-03,"Fisher & Paykel Healthcare Corporation Limited NZX","Health Care",5018000000,0.3,Null,22751676,"Very Strong"
+FXJ,2016-04-03,"Fairfax Media Limited","Consumer Discretionary",2356960000,0.14,Null,32180003,Strong
+FXL,2016-04-03,"Flexigroup Limited",Financials,860132000,0.05,Null,26256829,Weak
+GEM,2016-04-03,"G8 Education Limited","Consumer Discretionary",1639920000,0.1,Null,30532395,Good
+GMA,2016-04-03,"Genworth Mortgage Insurance Australia Limited",Financials,1599410000,0.1,Null,17965353,Good
+GMG,2016-04-03,"Goodman Group Stapled","Real Estate",13847800000,0.83,Null,28962371,"Very Strong"
+GNC,2016-04-03,"Graincorp Limited","Consumer Staples",2080300000,0.12,Null,28093765,Strong
+GOZ,2016-04-03,"Growthpoint Properties Australia Stapled","Real Estate",2096450000,0.13,Null,30617468,Strong
+GPT,2016-04-03,"GPT Group Stapled","Real Estate",9278390000,0.56,Null,20985398,"Very Strong"
+GTY,2016-04-03,"Gateway Lifestyle Group Stapled","Real Estate",625741000,0.04,Null,26875301,Weak
+GUD,2016-04-03,"G.u.d. Holdings Limited","Consumer Discretionary",1015160000,0.06,Null,29599469,Good
+GWA,2016-04-03,"GWA Group Limited",Industrials,765448000,0.05,Null,24074116,Weak
+GXL,2016-04-03,"Greencross Limited","Consumer Discretionary",836296000,0.05,Null,22578274,Weak
+GXY,2016-04-03,"Galaxy Resources Limited",Materials,898940000,0.05,Null,31437888,Weak
+HGG,2016-04-03,"Henderson Group PLC Cdi 1:1",Financials,2786180000,0.17,Null,20173784,Strong
+HSO,2016-04-03,"Healthscope Limited","Health Care",3940810000,0.24,Null,23131245,Strong
+HVN,2016-04-03,"Harvey Norman Holdings Limited","Consumer Discretionary",5042140000,0.3,Null,14604792,"Very Strong"
+IAG,2016-04-03,"Insurance Australia Group Limited",Financials,14323500000,0.86,Null,32357731,"Very Strong"
+IFL,2016-04-03,"Ioof Holdings Limited",Financials,2560140000,0.15,Null,33718466,Strong
+IFN,2016-04-03,"Infigen Energy Stapled",Utilities,784480000,0.05,Null,24772737,Weak
+IGO,2016-04-03,"Independence Group NL",Materials,2100550000,0.13,Null,16001684,Strong
+ILU,2016-04-03,"Iluka Resources Limited",Materials,3190500000,0.19,Null,16087740,Strong
+INM,2016-04-03,"Iron Mountain Incorporated Cdi 1:1","Real Estate",2213420000,0.13,Null,23762612,Strong
+IOF,2016-04-03,"Investa Office Fund Stapled","Real Estate",2916730000,0.17,Null,19711612,Strong
+IPH,2016-04-03,"IPH Limited",Industrials,933502000,0.06,Null,28806967,Weak
+IPL,2016-04-03,"Incitec Pivot Limited",Materials,6343760000,0.38,Null,24403825,"Very Strong"
+IRE,2016-04-03,"Iress Limited","Information Technology",1990780000,0.12,Null,28516251,Good
+ISD,2016-04-03,"Isentia Group Limited","Information Technology",300000000,0.02,Null,16415816,"Very Weak"
+IVC,2016-04-03,"Invocare Limited","Consumer Discretionary",1555830000,0.09,Null,15614155,Good
+JBH,2016-04-03,"JB Hi-fi Limited","Consumer Discretionary",2826210000,0.17,Null,31664929,Strong
+JHC,2016-04-03,"Japara Healthcare Limited","Health Care",532931000,0.03,Null,33371855,Weak
+JHX,2016-04-03,"James Hardie Industries PLC Cdi 1:1",Materials,9068150000,0.54,Null,29839840,"Very Strong"
+LLC,2016-04-03,"Lendlease Group Stapled","Real Estate",9082980000,0.54,Null,19761800,"Very Strong"
+LNK,2016-04-03,"Link Administration Holdings Limited","Information Technology",2781230000,0.17,Null,18961322,Strong
+MFG,2016-04-03,"Magellan Financial Group Limited",Financials,4066170000,0.24,Null,15917137,Strong
+MGR,2016-04-03,"Mirvac Group Stapled","Real Estate",8115180000,0.49,Null,27156603,"Very Strong"
+MIN,2016-04-03,"Mineral Resources Limited",Materials,2010640000,0.12,Null,17449201,Strong
+MMS,2016-04-03,"Mcmillan Shakespeare Limited",Industrials,1099970000,0.07,Null,21315351,Good
+MND,2016-04-03,"Monadelphous Group Limited",Industrials,1157100000,0.07,Null,16871308,Good
+MPL,2016-04-03,"Medibank Private Limited",Financials,7766290000,0.47,Null,33259905,"Very Strong"
+MQA,2016-04-03,"Macquarie Atlas Roads Group Stapled",Industrials,2909570000,0.17,Null,32825758,Strong
+MQG,2016-04-03,"Macquarie Group Limited",Financials,30699700000,1.84,Null,31740911,"Very Strong"
+MTR,2016-04-03,"Mantra Group Limited","Consumer Discretionary",868492000,0.05,Null,32891503,Weak
+MTS,2016-04-03,"Metcash Limited","Consumer Staples",2409840000,0.14,Null,31876052,Strong
+MYO,2016-04-03,"Myob Group Limited","Information Technology",2158930000,0.13,Null,32682971,Strong
+MYR,2016-04-03,"Myer Holdings Limited","Consumer Discretionary",997854000,0.06,Null,25234054,Weak
+MYX,2016-04-03,"Mayne Pharma Group Limited","Health Care",2145230000,0.13,Null,28217898,Strong
+NAB,2016-04-03,"National Australia Bank Limited",Financials,89198600000,5.35,Null,24749983,"Very Strong"
+NAN,2016-04-03,"Nanosonics Limited","Health Care",922972000,0.06,Null,22365569,Weak
+NCM,2016-04-03,"Newcrest Mining Limited",Materials,17075200000,1.02,Null,17772866,"Very Strong"
+NEC,2016-04-03,"Nine Entertainment Co. Holdings Limited","Consumer Discretionary",1093570000,0.07,Null,21219375,Good
+NSR,2016-04-03,"National Storage Reit Stapled","Real Estate",725187000,0.04,Null,23171379,Weak
+NST,2016-04-03,"Northern Star Resources LTD",Materials,2438200000,0.15,Null,24373081,Strong
+NUF,2016-04-03,"Nufarm Limited",Materials,2588090000,0.16,Null,28840230,Strong
+NVT,2016-04-03,"Navitas Limited","Consumer Discretionary",1594240000,0.1,Null,16439172,Good
+NWS,2016-04-03,"News Corporation. B Voting","Consumer Discretionary",796231000,0.05,Null,17488392,Weak
+NXT,2016-04-03,"Nextdc Limited","Information Technology",1159020000,0.07,Null,28667125,Good
+ORA,2016-04-03,"Orora Limited",Materials,3571790000,0.21,Null,25319316,Strong
+ORE,2016-04-03,"Orocobre Limited",Materials,585247000,0.04,Null,19489686,Weak
+ORG,2016-04-03,"Origin Energy Limited",Energy,12372800000,0.74,Null,23689934,"Very Strong"
+ORI,2016-04-03,"Orica Limited",Materials,6620690000,0.4,Null,20710579,"Very Strong"
+OSH,2016-04-03,"Oil Search Limited 10T",Energy,10993800000,0.66,Null,24624100,"Very Strong"
+OZL,2016-04-03,"Oz Minerals Limited",Materials,2338540000,0.14,Null,15706058,Strong
+PGH,2016-04-03,"Pact Group Holdings LTD",Materials,2094640000,0.13,Null,21099372,Strong
+PMV,2016-04-03,"Premier Investments Limited","Consumer Discretionary",2254430000,0.14,Null,31498599,Strong
+PPT,2016-04-03,"Perpetual Limited",Financials,2428860000,0.15,Null,31492697,Strong
+PRY,2016-04-03,"Primary Health Care Limited","Health Care",1861520000,0.11,Null,23395894,Good
+PTM,2016-04-03,"Platinum Asset Management Limited",Financials,3009660000,0.18,Null,34275885,Strong
+QAN,2016-04-03,"Qantas Airways Limited",Industrials,7096570000,0.43,Null,23916397,"Very Strong"
+QBE,2016-04-03,"QBE Insurance Group Limited",Financials,17679800000,1.06,Null,17649020,"Very Strong"
+QUB,2016-04-03,"Qube Holdings Limited",Industrials,3716900000,0.22,Null,20111636,Strong
+REA,2016-04-03,"REA Group LTD","Consumer Discretionary",7814630000,0.47,Null,19618839,"Very Strong"
+REG,2016-04-03,"Regis Healthcare Limited","Health Care",1342600000,0.08,Null,32796869,Good
+RFG,2016-04-03,"Retail Food Group Limited","Consumer Discretionary",938368000,0.06,Null,17136299,Weak
+RHC,2016-04-03,"Ramsay Health Care Limited","Health Care",14123500000,0.85,Null,17480685,"Very Strong"
+RIO,2016-04-03,"RIO Tinto Limited",Materials,25646700000,1.54,Null,21613111,"Very Strong"
+RMD,2016-04-03,"Resmed Inc Cdi 10:1","Health Care",13155700000,0.79,Null,32791687,"Very Strong"
+RRL,2016-04-03,"Regis Resources Limited",Materials,1653280000,0.1,Null,24454999,Good
+RSG,2016-04-03,"Resolute Mining Limited",Materials,958078000,0.06,Null,33768443,Weak
+RWC,2016-04-03,"Reliance Worldwide Corporation Limited",Industrials,1512000000,0.09,Null,16819512,Good
+S32,2016-04-03,"SOUTH32 Limited",Materials,14693600000,0.88,Null,23377672,"Very Strong"
+SAR,2016-04-03,"Saracen Mineral Holdings Limited",Materials,795436000,0.05,Null,21828498,Weak
+SBM,2016-04-03,"ST Barbara Limited",Materials,1183650000,0.07,Null,32896764,Good
+SCG,2016-04-03,"Scentre Group Stapled","Real Estate",22841200000,1.37,Null,14431506,"Very Strong"
+SCP,2016-04-03,"Shopping Centres Australasia Property Group Stapled","Real Estate",1663760000,0.1,Null,22700584,Good
+SDF,2016-04-03,"Steadfast Group Limited",Financials,1904370000,0.11,Null,29333617,Good
+SEK,2016-04-03,"Seek Limited",Industrials,5537070000,0.33,Null,24293151,"Very Strong"
+SFR,2016-04-03,"Sandfire Resources NL",Materials,1006350000,0.06,Null,18374373,Good
+SGM,2016-04-03,"Sims Metal Management Limited",Materials,2442640000,0.15,Null,14431745,Strong
+SGP,2016-04-03,"Stockland Stapled","Real Estate",11221400000,0.67,Null,25405863,"Very Strong"
+SGR,2016-04-03,"The Star Entertainment Group Limited","Consumer Discretionary",4516430000,0.27,Null,23921248,Strong
+SHL,2016-04-03,"Sonic Healthcare Limited","Health Care",9232290000,0.55,Null,25648869,"Very Strong"
+SIP,2016-04-03,"Sigma Pharmaceuticals Limited","Health Care",1387060000,0.08,Null,19190681,Good
+SKC,2016-04-03,"Skycity Entertainment Group Limited NZX","Consumer Discretionary",2473930000,0.15,Null,32292503,Strong
+SKI,2016-04-03,"Spark Infrastructure Group Forus",Utilities,3986370000,0.24,Null,19902180,Strong
+SKT,2016-04-03,"SKY Network Television Limited NZ","Consumer Discretionary",1365880000,0.08,Null,26197333,Good
+SPK,2016-04-03,"Spark New Zealand Limited NZX","Telecommunication Services",5827590000,0.35,Null,17585384,"Very Strong"
+SPO,2016-04-03,"Spotless Group Holdings Limited",Industrials,1191640000,0.07,Null,25964942,Good
+SRX,2016-04-03,"Sirtex Medical Limited","Health Care",1032770000,0.06,Null,16883700,Good
+STO,2016-04-03,"Santos Limited",Energy,7915060000,0.47,Null,21124934,"Very Strong"
+SUL,2016-04-03,"Super Retail Group Limited","Consumer Discretionary",2021710000,0.12,Null,30179674,Strong
+SUN,2016-04-03,"Suncorp Group Limited",Financials,17043500000,1.02,Null,22053474,"Very Strong"
+SVW,2016-04-03,"Seven Group Holdings Limited",Industrials,3012090000,0.18,Null,26587579,Strong
+SWM,2016-04-03,"Seven West Media Limited","Consumer Discretionary",1183810000,0.07,Null,31388355,Good
+SXL,2016-04-03,"Southern Cross Media Group Limited","Consumer Discretionary",1076620000,0.06,Null,22072309,Good
+SYD,2016-04-03,"Sydney Airport Forus",Industrials,15231300000,0.91,Null,16162390,"Very Strong"
+SYR,2016-04-03,"Syrah Resources Limited",Materials,746611000,0.04,Null,22651560,Weak
+TAH,2016-04-03,"Tabcorp Holdings Limited","Consumer Discretionary",3967520000,0.24,Null,26103009,Strong
+TCL,2016-04-03,"Transurban Group Stapled",Industrials,23950100000,1.44,Null,33525595,"Very Strong"
+TGR,2016-04-03,"Tassal Group Limited","Consumer Staples",760425000,0.05,Null,23968386,Weak
+TLS,2016-04-04,"Telstra Corporation Limited","Telecommunication Services",55422800000,3.32,Null,19428442,"Very Strong"
+TME,2016-04-04,"Trade Me Group Limited NZX","Consumer Discretionary",1850770000,0.11,Null,19443735,Good
+TNE,2016-04-04,"Technology One Limited","Information Technology",1607740000,0.1,Null,25937154,Good
+TPM,2016-04-04,"TPG Telecom Limited","Telecommunication Services",5913860000,0.35,Null,21949002,"Very Strong"
+TTS,2016-04-04,"Tatts Group Limited","Consumer Discretionary",6505540000,0.39,Null,32212216,"Very Strong"
+TWE,2016-04-04,"Treasury Wine Estates Limited","Consumer Staples",9027390000,0.54,Null,20933331,"Very Strong"
+VCX,2016-04-04,"Vicinity Centres Stapled","Real Estate",11203000000,0.67,Null,21988821,"Very Strong"
+VOC,2016-04-04,"Vocus Group Limited","Telecommunication Services",2679920000,0.16,Null,18240726,Strong
+VRT,2016-04-05,"Virtus Health Limited","Health Care",464577000,0.03,Null,15117179,"Very Weak"
+VVR,2016-04-05,"Viva Energy Reit Stapled","Real Estate",1642560000,0.1,Null,26970547,Good
+WBC,2016-04-05,"Westpac Banking Corporation",Financials,117683000000,7.06,Null,28605745,"Very Strong"
+WEB,2016-04-05,"Webjet Limited","Consumer Discretionary",1123930000,0.07,Null,16206254,Good
+WES,2016-04-05,"Wesfarmers Limited","Consumer Staples",50971400000,3.06,Null,26310241,"Very Strong"
+WFD,2016-04-05,"Westfield Corporation Stapled","Real Estate",18453400000,1.11,Null,28615199,"Very Strong"
+WHC,2016-04-05,"Whitehaven Coal Limited",Energy,3067880000,0.18,Null,20002080,Strong
+WOR,2016-04-05,"Worleyparsons Limited",Energy,2719150000,0.16,Null,16266542,Strong
+WOW,2016-04-05,"Woolworths Limited","Consumer Staples",34136300000,2.05,Null,26915888,"Very Strong"
+WPL,2016-04-05,"Woodside Petroleum Limited",Energy,27025600000,1.62,Null,24552982,"Very Strong"
+WSA,2016-04-05,"Western Areas Limited",Materials,628959000,0.04,Null,31061424,Weak

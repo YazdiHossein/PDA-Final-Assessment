@@ -1,0 +1,16 @@
+Code,Date,Company,Sector,Market_Cap,Weight_Percentage,Null_Cl,Total_Index_Market_Cap
+ABP,2016-04-01,"Abacus Property Group Stapled","Real Estate",1864850000,0.11,Null,22339859
+AOG,2016-04-01,"Aveo Group Stapled","Real Estate",1866090000,0.11,Null,26860334
+ALQ,2016-04-01,"Als Limited",Industrials,3095920000,0.19,Null,30638213
+ANN,2016-04-01,"Ansell Limited","Health Care",3551570000,0.21,Null,27701216
+ABC,2016-04-01,"Adelaide Brighton Limited",Materials,3690040000,0.22,Null,22283791
+AWC,2016-04-01,"Alumina Limited",Materials,5154920000,0.31,Null,24803538
+AST,2016-04-01,"Ausnet Services Limited",Utilities,6071320000,0.36,Null,19931265
+ASX,2016-04-01,"ASX Limited",Financials,9772680000,0.59,Null,14354150
+APA,2016-04-01,"APA Group Stapled",Utilities,9984190000,0.6,Null,30037727
+AZJ,2016-04-01,"Aurizon Holdings Limited",Industrials,10771700000,0.65,Null,25401672
+ALL,2016-04-01,"Aristocrat Leisure Limited","Consumer Discretionary",11474600000,0.69,Null,29185453
+AMP,2016-04-01,"AMP Limited",Financials,15321100000,0.92,Null,33855664
+AMC,2016-04-01,"Amcor Limited",Materials,17441600000,1.05,Null,19688815
+AGL,2016-04-01,"AGL Energy Limited",Utilities,17651200000,1.06,Null,18306588
+ANZ,2016-04-01,"Australia And New Zealand Banking Group Limited",Financials,93424700000,5.6,Null,17612164
